@@ -1,0 +1,5 @@
+0 Neutral
+1 Like
+2 Dislike
+3 Palm open
+4 Fist
